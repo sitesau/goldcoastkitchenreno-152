@@ -1,0 +1,22 @@
+{
+  "wheel_id": 409,
+  "structure": "umbrella",
+  "slug": "goldcoastkitchenreno-152",
+  "project": "kitchen-renovations-gold-coast-glossary-958e1787f349a7a63beaa86",
+  "parent_t1_ref": "goldcoastkitchenreno-011",
+  "node_role": "buffer",
+  "money_target": "goldcoastkitchenreno.com.au",
+  "primary_kw": "kitchen renovations gold coast glossary",
+  "intended_url": "https://sites-e470-2.web.app/kitchen-renovations-gold-coast-glossary-958e1787f349a7a63beaa86/",
+  "tier": "T2",
+  "writeback_nonce": "9d2d711f4b2b215e",
+  "links": [
+    {
+      "target_url": "https://kitchen-renovations-gold-coast-7e8596.gitlab.io/",
+      "anchor": "Kitchen Renovations Gold Coast: Costs, timing and fit",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
